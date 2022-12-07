@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+h2{
+    color: white;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+h3{
+    color: #f27609;
+    font-size: 12px;
+    font-family: sans-serif;
+    text-transform:uppercase;
+}
+ul{
+    color: rgb(132, 0, 255);
+}
+il{
+    color: rgb(132, 0, 255);
+}
+p{
+    color: white;
+    font-style: normal 100;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.Explica{
+    padding: 15px 180px 80px 100px;
+}
+
+.Explica img{
+    justify-content: center;
+    height: 400px;
+    margin-right: 20px;
+}
+.Explica h1{
+    color: white;
+    font-weight: normal;
+}
+.Explica h1{
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-top: 40px;
+}
