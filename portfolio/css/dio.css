@@ -31,6 +31,9 @@ header{
     padding-left: 20px;
     padding-right: 30px;
 }
+.container p{
+    text-align: center;
+}
 .title h1{
     font-size: 3em;
     border-bottom: #ccc 1px solid;
@@ -47,10 +50,12 @@ footer{
     bottom: 0;
 }
 footer p{
-        line-height: 25px;
+    text-align: center;
+    line-height: 25px;
 }
 footer .container{
-    display: flex;
+    display:inline-block;
+    text-align: center;
 }
 footer.menu a{
     color: #6c757d;
